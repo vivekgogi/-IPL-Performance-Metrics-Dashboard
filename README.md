@@ -1,4 +1,6 @@
-# IPL-Performance-Metrics-Dashboard
+# IPL Performance Metrics Dashboard
+
+Playerwise, Teamwise, and Matchwise Analysis Of IPL Performace Metrics using Power BI 
 
 ## IPL Player Analysis - Power BI
 
