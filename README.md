@@ -10,6 +10,7 @@ Playerwise, Teamwise, and Matchwise Analysis Of IPL Performace Metrics using Pow
 
 ![IPL Team Analysis - Power BI](https://github.com/vivekgogi/IPL-Performance-Metrics-Dashboard/assets/114925625/2f575555-1f07-47e1-9970-e1a79aa88f92)
 
-## IPL Player Analysis - Power BI
+## IPL Match Analysis - Power BI
 
-![IPL Player Analysis - Power BI](https://github.com/vivekgogi/IPL-Performance-Metrics-Dashboard/assets/114925625/9893f82d-6b22-485c-8ccf-e51750b9c817)
+![IPL Match Analysis - Power BI](https://github.com/vivekgogi/IPL-Performance-Metrics-Dashboard/assets/114925625/e1ea9ca7-e731-463c-81aa-a814eb406e41)
+
